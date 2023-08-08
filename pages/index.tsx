@@ -12,6 +12,7 @@ export default function Home() {
             </Head>
 
             <main>
+                <h1>No bugs here!</h1>
                 <h1 className={styles.title}>🐧🐙🐐🐸🍟😃👽🍄🍎🐛🔒🍕🌵</h1>
             </main>
         </div>
