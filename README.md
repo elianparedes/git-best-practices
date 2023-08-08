@@ -1,29 +1,24 @@
-# Next.js + Jest
+# Git Best Practices
 
-This example shows how to configure Jest to work with Next.js.
+## [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript.
+A specification for adding human and machine readable meaning to commit messages
 
-## How to Use
+-   [Angular specification](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
+-   [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
 
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
+## [Commitlint](https://commitlint.js.org/#/)
 
-In your terminal, run the following command:
+Helps your team adhere to a commit convention.
 
-```bash
-npx create-next-app --example with-jest with-jest-app
-```
+## [Husky](https://typicode.github.io/husky/)
 
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
+Modern native Git hooks made easy:
 
-```bash
-pnpm create next-app --example with-jest with-jest-app
-```
+## [Pre-Commit](https://pre-commit.com/)
 
-## Run Jest Tests
+A framework for managing and maintaining multi-language pre-commit hooks.
 
-```bash
-npm test
-```
+## [Learn Git Branching](https://learngitbranching.js.org/)
+
+An interactive guide to Git branching
