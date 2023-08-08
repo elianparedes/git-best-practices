@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 
 import styles from "@/pages/index.module.css";
 
@@ -13,7 +12,7 @@ export default function Home() {
 
             <main>
                 <h1>No bugs here!</h1>
-                <h1 className={styles.title}>🐧🐙🐐🐸🍟😃👽🍄🍎🐛🔒🍕🌵</h1>
+                <h1 className={styles.title}>🐧🐙🐐🐸🍟😃👽🍄🍎🔒🍕🌵</h1>
             </main>
         </div>
     );
