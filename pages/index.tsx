@@ -30,13 +30,6 @@ export default function Home() {
                         >
                             🐧🐙🐐🐸🍟😃👽🍄🍎
                         </span>
-                        {/* <span
-                            className={
-                                isVisible ? styles.visible : styles.invisible
-                            }
-                        >
-                            🐛
-                        </span> */}
                         <span
                             className={
                                 isBlurred ? styles.blurred : styles.unblurred
