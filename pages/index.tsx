@@ -30,14 +30,14 @@ export default function Home() {
                         >
                             🐧🐙🐐🐸🍟😃👽🍄🍎
                         </span>
-                        <span
+                        {/*<span
                             className={
                                 isBlurred ? styles.visible : styles.invisible
                             }
                             aria-hidden={!isBlurred}
                         >
                             🐛
-                        </span>
+                        </span>*/}
                         <span
                             className={
                                 isBlurred ? styles.blurred : styles.unblurred
